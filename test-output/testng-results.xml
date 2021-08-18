@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23142" started-at="2021-08-18T05:33:13Z" finished-at="2021-08-18T05:33:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23142" started-at="2021-08-18T05:33:13Z" finished-at="2021-08-18T05:33:36Z">
+      <class name="question.NewTest">
+        <test-method status="PASS" signature="OpenChrome()[pri:0, instance:question.NewTest@4cc0edeb]" name="OpenChrome" duration-ms="31" started-at="2021-08-18T11:03:13Z" finished-at="2021-08-18T11:03:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenChrome -->
+        <test-method status="PASS" signature="goToDista()[pri:1, instance:question.NewTest@4cc0edeb]" name="goToDista" duration-ms="13652" started-at="2021-08-18T11:03:13Z" finished-at="2021-08-18T11:03:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToDista -->
+        <test-method status="PASS" signature="gotoproducts()[pri:2, instance:question.NewTest@4cc0edeb]" name="gotoproducts" duration-ms="3396" started-at="2021-08-18T11:03:27Z" finished-at="2021-08-18T11:03:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gotoproducts -->
+        <test-method status="PASS" signature="goToDistaFood()[pri:3, instance:question.NewTest@4cc0edeb]" name="goToDistaFood" duration-ms="5106" started-at="2021-08-18T11:03:30Z" finished-at="2021-08-18T11:03:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToDistaFood -->
+        <test-method status="PASS" signature="closeBrowser()[pri:4, instance:question.NewTest@4cc0edeb]" name="closeBrowser" duration-ms="890" started-at="2021-08-18T11:03:35Z" finished-at="2021-08-18T11:03:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- question.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
